@@ -1,4 +1,4 @@
-# Data (Analytics ⮕ Science ⮕ Engineer)
+# 📊 Data Technology (Analytics ⮕ Science ⮕ Engineer)
 
 ## Career Platforms / Roles
 - **Data Analyst**
@@ -27,6 +27,7 @@
 ### 3. Data Analytics & Data Science
 - Extract insights from data
 - Aid in decision making
+- Visualize data
 
 ## 🛠️ Tools
 
@@ -36,6 +37,7 @@
   - Python, R, and Libraries
   - Jupyter Notebook
   - AI Analysis
+
 - Business Intelligence / Visualization Tools
     - PowerBI, Tableau
     - Automatic AI Tools for Insights
