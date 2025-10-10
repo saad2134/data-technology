@@ -1,0 +1,146 @@
+# ============================
+# CORE PYTHON + UTILITIES
+# ============================
+numpy
+pandas
+scipy
+pyarrow
+openpyxl
+xlrd
+python-dateutil
+pyyaml
+tqdm
+joblib
+
+# ============================
+# DATA VISUALIZATION
+# ============================
+matplotlib
+plotly
+seaborn
+altair
+bokeh
+dash
+streamlit
+
+# ============================
+# DATA CLEANING / FEATURE ENGINEERING
+# ============================
+scikit-learn
+category_encoders
+imbalanced-learn
+missingno
+feature-engine
+mlxtend
+
+# ============================
+# MACHINE LEARNING / DEEP LEARNING
+# ============================
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+pytorch-lightning
+transformers
+optuna
+mlflow
+
+# ============================
+# NATURAL LANGUAGE PROCESSING
+# ============================
+spacy
+nltk
+gensim
+textblob
+sentence-transformers
+
+# ============================
+# DATA ENGINEERING / PIPELINES
+# ============================
+dask
+pyspark
+apache-airflow
+luigi
+prefect
+great-expectations
+dbt-core
+
+# ============================
+# DATABASE CONNECTORS
+# ============================
+sqlalchemy
+psycopg2-binary
+pymysql
+cx_Oracle
+pymongo
+redis
+elasticsearch
+
+# ============================
+# API / WEB SCRAPING / AUTOMATION
+# ============================
+requests
+beautifulsoup4
+lxml
+selenium
+httpx
+fastapi
+flask
+
+# ============================
+# CLOUD / STORAGE CONNECTORS
+# ============================
+boto3
+google-cloud-storage
+azure-storage-blob
+snowflake-connector-python
+gcsfs
+s3fs
+
+# ============================
+# BIG DATA / DISTRIBUTED COMPUTING
+# ============================
+pyspark
+koalas
+ray
+modin[all]
+
+# ============================
+# STATISTICS / FORECASTING / TIME SERIES
+# ============================
+statsmodels
+prophet
+pmdarima
+tsfresh
+darts
+
+# ============================
+# DATA VALIDATION / TESTING
+# ============================
+pytest
+pytest-cov
+pandera
+great-expectations
+
+# ============================
+# NOTEBOOK / DEV ENVIRONMENT
+# ============================
+jupyter
+jupyterlab
+ipython
+notebook
+black
+isort
+flake8
+
+# ============================
+# OPTIONAL - GRAPH / NETWORK / RECOMMENDATION
+# ============================
+networkx
+igraph
+implicit
+surprise

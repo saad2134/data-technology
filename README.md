@@ -1,5 +1,9 @@
 # 📊 Data Technology (Analytics ⮕ Science ⮕ Engineer)
 
+- Data Analytics: Answers the question, "What happened?" and "Why did it happen?" Focus on business intelligence, dashboards, and descriptive statistics.
+- Data Science: Answers the question, "What will happen?" and "How can we make it happen?" Focus on predictive modeling, machine learning, and advanced statistics.
+- Data Engineering: Answers the question, "How do we get the data ready and in one place?" Focus on data pipelines, infrastructure, and data warehousing.
+
 ## Career Platforms / Roles
 - **Data Analyst**
 - **Data Scientist**
@@ -13,6 +17,7 @@
 - **Forms of Data**:
   - Structured & Unstructured
   - Nominal, Ordinal, Interval, Ratio
+  - & more
 
 ### 1. Data Gathering & Extraction
 - Scraping / Web Scraping
@@ -27,7 +32,9 @@
 ### 3. Data Analytics & Data Science
 - Extract insights from data
 - Aid in decision making
+- Make predictions
 - Visualize data
+- & more.
 
 ## 🛠️ Tools
 
