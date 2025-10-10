@@ -1,0 +1,16 @@
+name: data-tech-learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scikit-learn
+  - pip
+  - pip:
+    - plotly
+    - streamlit

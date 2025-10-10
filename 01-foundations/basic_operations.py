@@ -1,5 +1,5 @@
 # In a Jupyter cell - basic calculations
-print("Hello, Data Analytics!")
+print("Hello, Data!")
 
 # Variables and basic math
 revenue = 50000
