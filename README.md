@@ -63,4 +63,8 @@
     - SQL Databases: MySQL, PostgreSQL
     - NoSQL: MongoDB
 
+## ✍️ Endnote
+
+<p align="center">⭐ Star this repo if you found it helpful! Thanks for reading.</p>
+
 
